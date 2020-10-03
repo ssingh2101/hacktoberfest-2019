@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Sandeep Singh](https://github.com/ssingh2101)
+- Place: Kolkata, India
+- Bio: Software Developer
+- GitHub: [ssingh2101](https://github.com/ssingh2101)
